@@ -20,6 +20,7 @@ We experimented with and compared various segmentation models. The following mod
 5. **MobileViTv2**
 6. **DeepLabV3-MobileViT-Small**
 
+
 ## Model Improvement Methods
 To enhance performance and efficiency, we implemented the following strategies:
 
@@ -27,8 +28,9 @@ To enhance performance and efficiency, we implemented the following strategies:
 2. **Loss Function Modification**: Customizing the loss function to optimize performance during training.
 3. **Model Lightweighting**: Leveraging lightweight models such as MobileViT and Swin-Tiny, with additional optimizations for reduced model size.
 
+
 ## Results
-Through this project, we successfully implemented models to effectively segment vehicle damage areas. By applying various improvement techniques, we enhanced both the performance and efficiency of the models.
+Through this project, we successfully implemented models to effectively segment vehicle damage areas. By applying various improvement techniques, we enhanced both the performance and efficiency of the models. Especially, ensemble method worked well.
 
 ---
 
