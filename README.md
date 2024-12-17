@@ -8,7 +8,7 @@ This project was conducted as the **Final Project for the 2024 Fall Semester DNN
 - **AI Hub - Vehicle Damage Image Dataset** was sampled and used.
 - Data split ratio: **Train:Test:Validation = 7:1.5:1.5**
 - Image preprocessing: All images were resized to **512x512**.
-- [AI Hub Vehicle Damage Dataset](https://www.aihub.or.kr/)
+- [차량 파손 이미지 데이터]([https://www.aihub.or.kr/](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=581))
 
 ## Baseline Models
 We experimented with and compared various segmentation models. The following models were used:
