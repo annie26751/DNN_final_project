@@ -15,7 +15,7 @@ This project was conducted as the **Final Project for the Sungkunkwan university
 ## Baseline Models
 We experimented with and compared various segmentation models. The following models were used:
 
-1. **Mask2Former(B3)**
+1. **Mask2Former(b3)**
 2. **UperNet for Semantic Segmentation (Swin-Tiny)**
 3. **Segformer**
 4. **DPT**
@@ -28,7 +28,7 @@ To enhance performance and efficiency, we implemented the following strategies:
 
 1. **Ensemble Techniques**: Combining outputs from multiple models to achieve more accurate results.
 2. **Loss Function Modification**: Customizing the loss function to optimize performance during training.
-3. **Model Lightweighting**: Leveraging lightweight models such as MobileViT and Swin-Tiny, with additional optimizations for reduced model size.
+3. **Distillation**: Applied distillation with SegFomer. Teacher model : SegFomer(b3), Student model:SegFomer(B0)
 
 
 ## Results
