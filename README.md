@@ -1,4 +1,4 @@
-# Detect Car damge - segmentation
+# Car damge detection with segmentation
 ![example.png](https://github.com/user-attachments/assets/1369f21b-b784-4683-92dc-21aad106950b)
 
 ## Project Overview
