@@ -1,5 +1,6 @@
 # DNN_project
 Detect Car damge - segmentation
+(example.png)
 
 ## Project Overview
 This project was conducted as the **Final Project for the 2024 Fall Semester DNN course**. Our team's topic was **Detect Car Damage - Segmentation**, and our goal is to design and improve a model to accurately segment damaged areas on vehicles.
