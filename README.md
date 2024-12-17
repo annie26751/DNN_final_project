@@ -15,7 +15,7 @@ This project was conducted as the **Final Project for the Sungkunkwan university
 ## Baseline Models
 We experimented with and compared various segmentation models. The following models were used:
 
-1. **Mask2Former(B-3)**
+1. **Mask2Former(B3)**
 2. **UperNet for Semantic Segmentation (Swin-Tiny)**
 3. **Segformer**
 4. **DPT**
