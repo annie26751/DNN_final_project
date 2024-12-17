@@ -2,12 +2,13 @@
 Detect Car damge - segmentation
 
 ## Project Overview
-This project was conducted as the **Final Project for the 2024 Fall Semester DNN course**. Our team's topic was **Detect Car Damage - Segmentation**, with the goal of designing and improving a model to accurately segment damaged areas on vehicles.
+This project was conducted as the **Final Project for the 2024 Fall Semester DNN course**. Our team's topic was **Detect Car Damage - Segmentation**, and our goal is to design and improve a model to accurately segment damaged areas on vehicles.
 
 ## Dataset
-- **AI Hub Vehicle Damage Image Dataset** was sampled and used.
+- **AI Hub - Vehicle Damage Image Dataset** was sampled and used.
 - Data split ratio: **Train:Test:Validation = 7:1.5:1.5**
 - Image preprocessing: All images were resized to **512x512**.
+- [AI Hub Vehicle Damage Dataset](https://www.aihub.or.kr/)
 
 ## Baseline Models
 We experimented with and compared various segmentation models. The following models were used:
