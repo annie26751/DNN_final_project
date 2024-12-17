@@ -1,5 +1,5 @@
 # Car damge detection with segmentation
-![example.png](https://github.com/user-attachments/assets/1369f21b-b784-4683-92dc-21aad106950b)
+![example.png](https://github.com/user-attachments/assets/236c3d67-0f6e-400e-8bb8-0cfda1b7ae2c)
 
 ## Project Overview
 This project was conducted as the **Final Project for the Sungkunkwan university 2024 Fall Semester DNN course**. Our team's topic was **Detect Car Damage - Segmentation**, and our goal is to design and improve a model to accurately segment damaged areas on vehicles.
