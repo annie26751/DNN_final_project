@@ -4,6 +4,8 @@
 ## Project Overview
 This project was conducted as the **Final Project for the Sungkunkwan university 2024 Fall Semester DNN course**. Our team's topic was **Detect Car Damage - Segmentation**, and our goal is to design and improve a model to accurately segment damaged areas on vehicles.
 
+You can see results and our work [here](https://round-vibraphone-01c.notion.site/Segmentation-156ccd25bf2280d68b32fe8de68bfbab?pvs=4)
+
 ## Dataset
 - **AI Hub - Vehicle Damage Image Dataset** was sampled and used.
 - Data split ratio: **Train:Test:Validation = 7:1.5:1.5**
